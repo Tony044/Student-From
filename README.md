@@ -25,7 +25,16 @@ Il utilise **Spring Boot MVC** pour la logique backend et **Thymeleaf** pour le 
 
 ##  Structure du projet
 
-SpringBoot-Student-Form/ │── src/ │ ├── main/java/com/example/studentform/ # Code backend (Controllers, Services, Models) │ ├── main/resources/templates/ # Templates Thymeleaf (Vue) │ ├── main/resources/static/css/ # Feuilles de style │ ├── main/resources/application.properties # Configuration Spring Boot │── pom.xml # Dépendances Maven │── README.md # Documentation
+SpringBoot-Student-Form/ │── src/ │ 
+                                  ├── main/java/com/example/studentform/ 
+                                  
+# Code backend (Controllers, Services, Models) 
+├── main/resources/templates/ # Templates Thymeleaf (Vue) 
+├── main/resources/static/css/ 
+
+# Feuilles de style 
+├── main/resources/application.properties # Configuration Spring Boot 
+│── pom.xml # Dépendances Maven
 
 bash
 Copier
@@ -47,10 +56,10 @@ Copier - coller :
 mvn spring-boot:run
 
 3. **Accéder à l'application:**
-```sh   
+```sh  
 Ouvrir un navigateur et aller à :
 http://localhost:8080/showStudentForm 
 
 Contact :
-
+```sh
 Si vous avez des questions, n'hésitez pas à me contacter via LinkedIn : https://www.linkedin.com/in/antoine-stoykov/
