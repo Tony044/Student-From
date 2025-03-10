@@ -54,12 +54,15 @@ Modifier
 ```sh
 Copier - coller :
 mvn spring-boot:run
+```
 
-3. **Accéder à l'application:**
+2. **Accéder à l'application dans le terminal:**
 ```sh  
 Ouvrir un navigateur et aller à :
-http://localhost:8080/showStudentForm 
+http://localhost:8080/showStudentForm
+```
 
-Contact :
+**Contact:**
 ```sh
 Si vous avez des questions, n'hésitez pas à me contacter via LinkedIn : https://www.linkedin.com/in/antoine-stoykov/
+```
