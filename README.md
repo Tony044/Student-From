@@ -43,26 +43,30 @@ Modifier
 ## Installation et exécution
 
 1. **Cloner le projet dans un terminal :**
-   ```sh
-   1.1) copier - coller :
-   git clone https://github.com/votre-utilisateur/SpringBoot-Student-Form.git
-
-   1.2) copier - coller :  
-   cd Student-Form
    
-2. **Lancer l'application dans un terminal:**
-```sh
+   1.1) copier - coller :
+   ```sh
+   git clone https://github.com/votre-utilisateur/SpringBoot-Student-Form.git
+   ```
+   1.2) copier - coller :
+   ```sh
+   cd Student-Form
+   ```
+3. **Lancer l'application dans un terminal:**
+
 Copier - coller :
+```sh
 mvn spring-boot:run
 ```
 
 2. **Accéder à l'application dans le terminal:**
-```sh  
+  
 Ouvrir un navigateur et aller à :
-http://localhost:8080/showStudentForm
+```sh
+" http://localhost:8080/showStudentForm "
 ```
 
 **Contact:**
 ```sh
-Si vous avez des questions, n'hésitez pas à me contacter via LinkedIn : https://www.linkedin.com/in/antoine-stoykov/
+Si vous avez des questions, n'hésitez pas à me contacter via LinkedIn : " https://www.linkedin.com/in/antoine-stoykov/ "
 ```
