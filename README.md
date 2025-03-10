@@ -35,17 +35,22 @@ Modifier
 
 1. **Cloner le projet dans un terminal :**
    ```sh
+   1.1) copier - coller :
    git clone https://github.com/votre-utilisateur/SpringBoot-Student-Form.git
+
+   1.2) copier - coller :  
    cd Student-Form
    
 2. **Lancer l'application dans un terminal:**
-
-sh
-Copier - coller : " mvn spring-boot:run "
+```sh
+Copier - coller :
+mvn spring-boot:run
 
 3. **Accéder à l'application:**
-   
-Ouvrir un navigateur et aller à : " http://localhost:8080/showStudentForm "
+```sh   
+Ouvrir un navigateur et aller à :
+http://localhost:8080/showStudentForm 
 
 Contact :
-Si vous avez des questions, n'hésitez pas à me contacter via LinkedIn ou GitHub.
+
+Si vous avez des questions, n'hésitez pas à me contacter via LinkedIn : https://www.linkedin.com/in/antoine-stoykov/
