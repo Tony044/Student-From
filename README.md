@@ -63,10 +63,12 @@ mvn spring-boot:run
   
 Ouvrir un navigateur et aller à :
 ```sh
-" http://localhost:8080/showStudentForm "
+http://localhost:8080/showStudentForm
 ```
 
 **Contact:**
+
+Si vous avez des questions, n'hésitez pas à me contacter via LinkedIn : 
 ```sh
-Si vous avez des questions, n'hésitez pas à me contacter via LinkedIn : " https://www.linkedin.com/in/antoine-stoykov/ "
+https://www.linkedin.com/in/antoine-stoykov/
 ```
